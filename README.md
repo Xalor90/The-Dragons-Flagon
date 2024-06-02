@@ -1,6 +1,5 @@
 # The Dragon's Flagon
 #### A gaming community, by gamers, for gamers.
-__________
 
 ## About
 This is the Official repo for The Dragon's Flagon, a gaming community, by
